@@ -1,0 +1,1 @@
+The analog signal to the headphones was generated with an 24-bit external sound card and headphone amplifier, Grace m903 (Grace Design, USA).

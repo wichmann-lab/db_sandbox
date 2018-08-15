@@ -1,0 +1,1 @@
+All stimuli were presented via Ultrasone Signature PRO closed-back headphones with S-Logic Plus technology (Ultrasone, Germany). The headphones provide up to 40 dB external noise attenuation, depending on sound frequency.

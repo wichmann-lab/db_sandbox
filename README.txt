@@ -1,0 +1,3 @@
+The data presented here comes from experiments that were conducted as a part of my master's thesis (2016) and a follow-up study (2017).
+
+The experiments explored the perception of chords and the effects of different factors on hearing the individual components of chords, namely, the effects of tone complexity (pure tones and complex tones), position of a tone within chord (both absolute position and relative position), consonance of the chord and consonance of the tone in relation to the chord and musical training.
