@@ -1,0 +1,1 @@
+Each participant completed a questionnaire before beginning the experiment which asked about the subjects' musical training, self-rated musical ability and the perceived difficulty of certain musical tasks.
