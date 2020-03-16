@@ -1,0 +1,1 @@
+Psychophysics experiment investigating how the uncertainty about the spatial frequency of a grating stimulus affects detectability.
