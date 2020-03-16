@@ -1,0 +1,35 @@
+experiment
+├── experimenter/
+├── description
+├── hardware-setup/
+│   ├── description
+│   ├── _calibrations_1_/
+│   │   └── calibration/
+│   │       └── description
+│   └── _devices_/
+│       └── device/
+│           ├── _calibration_/
+│           ├── description
+│           ├── _code_/
+│           └── _metadata_/
+├── creation_date
+├── last-modified-date
+├── _ethic-statements_/
+├── conditions
+│    └── condition_1
+│       ├── _levels_
+│       └── description
+├── data
+│       ├── data
+│       └── header_descriptions
+├── subjects
+│   ├── _birthdates_
+│   ├── _initials_
+│   ├── _questionnaire_
+│   └── _medical-records_
+└── stimuli
+    ├── description
+    └── generation
+        ├── description
+        ├── _code_
+        └── _materials
